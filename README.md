@@ -12,7 +12,7 @@
 
 👯 Open to collaborating on frontend, backend.
 
-💬 Ask me about HTML, CSS, JavaScript, React, and basic backend concepts
+💬 Ask me about **HTML, CSS, JavaScript, React, and basic backend** concepts
 
 📌 Check out my latest projects on [GitHub](https://github.com/filmeenamajhi123)
 
