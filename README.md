@@ -18,4 +18,5 @@
 
 📫 Reach me at filmeena23@navgurukul.org
 
-📄 View My Resume
+[📄 View My Resume
+](https://drive.google.com/file/d/10ZrAFtlfCGNwgaot8pVhv8SbNuSOlKu0/view?usp=sharing)
